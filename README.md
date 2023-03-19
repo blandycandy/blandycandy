@@ -41,6 +41,6 @@ def  __social__(self):
 
 ![](https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg)
 
-<h3 align="left">Support:</h3>
+<h3 align="left">Bağış:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/blandycandy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/blandycandy" /></a></p><br><br>
 

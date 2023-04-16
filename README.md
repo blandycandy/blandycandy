@@ -12,6 +12,8 @@ def  __social__(self):
  self.gtb = "https://github.com/blandycandy"
  self.dsc = "Blandy..." 
  self.tlg = "https://discord.gg/ataturk"
+ self.tlg = "https://discord.gg/deha"
+ self.tlg = "https://discord.gg/nsfww"
   
  ┌──(blandy@root)-[~/]
  └─$

@@ -1,6 +1,6 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <p align=center>
-  <a href="https://discord.com/users/621697993443115008"><img src="https://lanyard-profile-readme.vercel.app/api/621697993443115008" width=45%></a>
+  <a href="https://discord.com/users/1124428204648697906"><img src="https://lanyard-profile-readme.vercel.app/api/1124428204648697906" width=45%></a>
 </p>
 
 
@@ -11,9 +11,8 @@ class Blandy:
 def  __social__(self):
  self.gtb = "https://github.com/blandycandy"
  self.dsc = "Blandy..." 
- self.tlg = "https://discord.gg/ataturk"
- self.tlg = "https://discord.gg/hdporn"
  self.tlg = "https://discord.gg/nsfww"
+ self.tlg = "https://discord.gg/geziparki"
   
  ┌──(blandy@root)-[~/]
  └─$

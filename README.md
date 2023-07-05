@@ -1,6 +1,6 @@
 <!-- <p align=center><img width=90% src="banner.gif"></img></p> -->
 <p align=center>
-  </br><img src="https://komarev.com/ghpvc/?username=kamranahmedse&color=dc143c"/>
+  </br><img src="https://komarev.com/ghpvc/?username=blandycandy&color=dc143c"/>
 </p>
 
 

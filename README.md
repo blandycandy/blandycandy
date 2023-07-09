@@ -1,4 +1,4 @@
-<h2 align="center">Phiec</h2>
+<h2 align="center">Blandy Candy</h2>
 
 <h3>My Personal accounts:</h3>
 <p align="left">
